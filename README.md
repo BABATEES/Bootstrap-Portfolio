@@ -16,7 +16,7 @@ EDX Bootcamp, https://www.w3schools.com/, bootstrap.com, placecardholder.co, goo
 Please refer to the license in the repo
 
 ## Website link
-https://babatees.github.io/bootstrap-portfolio
+https://babatees.github.io/Bootstrap-Portfolio/
 
 ## Screenshot
 
