@@ -1,4 +1,15 @@
 body {
 
-  background-color: blue;
+  background-color: white;
+  display: grid;
+  
+}
+.jumbotron{
+  background-image: url(../Images/Tayo.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(100vh - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
